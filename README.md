@@ -179,6 +179,23 @@ Improve Marketing and Communication:
 
 Action: Provide clearer product descriptions and incorporate real-life customer photos and feedback to build trust.
 
+## Tools and Techniques Used
+
+### Tools
+
+Power BI: Built interactive dashboards for data visualization.
+
+Microsoft Excel: Prepared and cleaned raw data for analysis.
+
+DAX (Data Analysis Expressions): Implemented advanced calculations for deriving key metrics.
+
+### Techniques
+
+Sentiment Analysis: Classified customer feedback into positive, neutral, and negative categories to identify trends.
+
+Interactive Filtering: Added slicers for exploring data by rating, department, and age group, enhancing user experience.
+
+Data Visualization: Designed clear and engaging visualizations like bar charts, line graphs, and word clouds for actionable insights.
 
 [Download Customer Feedback and Product Analysis Report (.pbix)](https://github.com/tulasikodi/Customer-Feedback-and-Product-Performance-Analysis/blob/main/CUstomer%20Feedback%20and%20Product%20Analysis.pbix)
 

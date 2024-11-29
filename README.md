@@ -178,3 +178,7 @@ Action: Regularly analyze customer feedback and sales data to identify recurring
 Improve Marketing and Communication:
 
 Action: Provide clearer product descriptions and incorporate real-life customer photos and feedback to build trust.
+
+
+[Download Customer Feedback and Product Analysis Report (.pbix)](https://github.com/tulasikodi/Customer-Feedback-and-Product-Performance-Analysis/blob/main/CUstomer%20Feedback%20and%20Product%20Analysis.pbix)
+

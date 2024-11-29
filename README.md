@@ -148,6 +148,10 @@ For Positive Sentiment: Leverage terms like comfortable and chic in marketing ca
 For Negative Sentiment: Focus on improving product quality and fit, especially for jackets, to reduce complaints and enhance the overall customer experience.
 
 
+![image](https://github.com/user-attachments/assets/59e91138-c0f7-42c7-813a-6b8cef3ed21c)
+
+![image](https://github.com/user-attachments/assets/db529cb5-6334-4f5c-bdeb-9229a06083f9)
+
 
 # Overall Recommendations for Improvement
 ### Fix Size and Fit Issues:
